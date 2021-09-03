@@ -1,0 +1,50 @@
+html {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: grey;
+    text-align: center;
+}
+
+section {
+    width: 100%;
+}
+
+nav {
+    text-decoration: none;
+}
+
+nav a {
+    padding: 0% 3%;
+}
+
+main {
+    margin: 0% 5%;
+}
+
+#home {
+    display: flex;
+}
+
+#cakes img {
+    max-height: 350px;
+    max-width: 350px;
+}
+
+article#cakes {
+    display: flex;
+    flex-wrap:wrap;
+}
+
+#cakes figure {
+    width: 27%;
+}
+
+#cakes figcaption {
+    padding: 0% 10%;
+}
+
+#more {
+    width: 100%;
+}
